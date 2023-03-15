@@ -1,0 +1,32 @@
+{
+  "name": "gamefc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniDonner/GameFC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniDonner/GameFC/issues"
+  },
+  "homepage": "https://github.com/DaniDonner/GameFC#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.1",
+    "@types/uuid": "^9.0.1"
+  },
+  "dependencies": {
+    "@types/react-redux": "^7.1.25",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5",
+    "uuid": "^9.0.0"
+  }
+}
